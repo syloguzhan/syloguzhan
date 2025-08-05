@@ -37,7 +37,7 @@
 
 - **Film/Dizi Öneri Sistemi**  
   Flask + Vue.js ile kullanıcı geçmişine göre öneriler yapan bir web uygulaması.  
-  [🔗 Proje Linki](https://github.com/syloguzhan/movie-recommendation)
+  [🔗 Proje Linki](https://github.com/syloguzhan/MovieMate)
 
 ---
 
