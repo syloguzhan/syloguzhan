@@ -33,7 +33,7 @@
 ## 📌 Öne Çıkan Projeler
 - **AI Destekli Domain Analizi**  
   Google Gemini API + Flask kullanarak web scraping ile sektör analizi raporu üreten bir backend projesi.  
-  [🔗 Proje Linki](https://github.com/syloguzhan/analysis-report)
+  [🔗 Proje Linki](https://github.com/syloguzhan/AnalysisReportNew)
 
 - **Film/Dizi Öneri Sistemi**  
   Flask + Vue.js ile kullanıcı geçmişine göre öneriler yapan bir web uygulaması.  
